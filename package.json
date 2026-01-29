@@ -1,7 +1,7 @@
 {
   "name": "ai-type-gen",
   "version": "1.0.0",
-  "description": "Generate TypeScript interfaces from JSON files",
+  "description": "AI-powered TypeScript type generator - interfaces from data with GPT",
   "main": "dist/index.js",
   "bin": {
     "ai-type-gen": "dist/cli.js"
@@ -10,11 +10,19 @@
     "build": "tsc"
   },
   "keywords": [
+    "ai",
+    "openai",
+    "gpt",
     "typescript",
-    "json",
+    "types",
     "interfaces",
     "codegen",
-    "cli"
+    "developer-tools",
+    "cli",
+    "automation",
+    "nodejs",
+    "type-safety",
+    "schema"
   ],
   "license": "MIT",
   "dependencies": {
