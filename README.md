@@ -3,6 +3,9 @@
 [![npm version](https://img.shields.io/npm/v/ai-type-gen.svg)](https://www.npmjs.com/package/ai-type-gen)
 [![npm downloads](https://img.shields.io/npm/dm/ai-type-gen.svg)](https://www.npmjs.com/package/ai-type-gen)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/lxgic-studios/ai-type-gen)](https://github.com/lxgic-studios/ai-type-gen/stargazers)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue)](https://www.typescriptlang.org/)
+
 
 
 Paste in a JSON file, get back clean TypeScript interfaces. No more manually typing out types from API responses.
