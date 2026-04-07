@@ -1,5 +1,5 @@
 {
-  "name": "ai-type-gen",
+  "name": "@lxgicstudios/ai-type-gen",
   "version": "1.0.0",
   "description": "AI-powered TypeScript type generator - interfaces from data with GPT",
   "main": "dist/index.js",
