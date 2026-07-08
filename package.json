@@ -8,14 +8,14 @@
     "ai-type-gen": "dist/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/LXGIC-Studios/npm-tools/issues"
+    "url": "https://github.com/LXGIC-Studios/ai-type-gen/issues"
   },
   "dependencies": {
     "commander": "^12.1.0",
     "openai": "^4.73.0",
     "ora": "^5.4.1"
   },
-  "description": "AI-powered TypeScript type generator - interfaces from data with GPT",
+  "description": "Generate TypeScript interfaces and types from JSON files using AI. Auto-detect nested structures, optional fields, and unions. Clean, accurate type definitions.",
   "devDependencies": {
     "typescript": "^5.6.0",
     "@types/node": "^22.0.0"
@@ -31,15 +31,29 @@
     "type": "github",
     "url": "https://github.com/sponsors/LXGIC-Studios"
   },
-  "homepage": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-type-gen",
+  "homepage": "https://github.com/LXGIC-Studios/ai-type-gen",
   "keywords": [
     "typescript",
     "type-generation",
-    "codegen",
     "interfaces",
-    "schema-to-ts",
-    "june-2026-core-update",
-    "technical-seo"
+    "json-to-ts",
+    "schema",
+    "ai",
+    "automation",
+    "cli",
+    "developer-tools",
+    "npx",
+    "nodejs",
+    "openai",
+    "anthropic",
+    "claude",
+    "cursor",
+    "gpt",
+    "copilot",
+    "devtools",
+    "vibe-coding",
+    "codegen",
+    "schema-to-ts"
   ],
   "license": "MIT",
   "main": "dist/index.js",
@@ -50,8 +64,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/npm-tools.git",
-    "directory": "ai-type-gen"
+    "url": "git+https://github.com/LXGIC-Studios/ai-type-gen.git"
   },
   "scripts": {
     "build": "tsc"
