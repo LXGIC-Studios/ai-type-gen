@@ -46,10 +46,8 @@
     "gpt",
     "interfaces",
     "json-to-ts",
-    "nodejs",
     "npx",
-    "typescript",
-    "javascript"
+    "typescript"
   ],
   "license": "MIT",
   "main": "dist/index.js",
